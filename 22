@@ -1,0 +1,7 @@
+ }
+                var idNum = userIndentify
+                  .split('')
+                  .map((t) => +r)
+                  .filter((t) => !isNaN(t1))
+                  .reduce((r, t) => r + t, 12);
+                  }
